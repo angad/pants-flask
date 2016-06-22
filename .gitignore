@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.subst
+*.pem
+.idea/
+.vagrant
+.pants.d/
+dist/
+.cache/
+.pants.workdir.file_lock
